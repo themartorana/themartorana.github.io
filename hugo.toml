@@ -10,7 +10,7 @@ layoutdir = "layouts"
 publishdir = "public"
 
 author = "Dave Martorana"
-title = "Dave Martorana"
+title = "This is Dave Martorana"
 
 theme = "hugo-goa"
 
@@ -21,15 +21,15 @@ enableRobotsTXT = true
 
 ## Site Settings
 [params]
-author = "Dave Martorana"
-intro = "Father, husband. Entrepreneur, software engineer. Musician."
+author = "This is Dave Martorana"
+intro = "Father, husband. Entrepreneur. Software engineer. Musician."
 description = """
 May, 1978 - ?
 
 Co-owner, {{< link "Flyclops LLC" "https://flyclops.com" "_blank" >}}
 """
 authorimage = "headshot.png"
-dateformat = "Jan 2, 2006"
+dateformat = "2006-01-02"
 
 ## Site Meta Settings
 [params.meta]
