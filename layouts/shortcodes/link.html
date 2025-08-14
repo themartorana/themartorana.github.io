@@ -1,0 +1,22 @@
+{{- $title := "" -}}
+{{- $url := "" -}}
+{{- $target := "" -}}
+
+{{- if .IsNamedParams -}}
+    {{- with .Get "title" }}{{ $title = . }}{{ end -}}
+    {{- with .Get "url" }}{{ $url = . }}{{ end -}}
+    {{- with .Get "target" }}{{ $target = . }}{{ end -}}
+{{- else -}}
+    {{- $params := .Params -}}
+    {{- if ge (len $params) 1 }}{{ $title = index $params 0 }}{{ end -}}
+    {{- if ge (len $params) 2 }}{{ $url = index $params 1 }}{{ end -}}
+    {{- if ge (len $params) 3 }}{{ $target = index $params 2 }}{{ end -}}
+{{- end -}}
+
+{{- if and $title $url -}}
+    {{- $rel := "" -}}
+    {{- if eq (lower $target) "_blank" -}}
+        {{- $rel = "noopener noreferrer" -}}
+    {{- end -}}
+    <a href="{{ $url }}"{{ with $target }} target="{{ . }}"{{ end }}{{ with $rel }} rel="{{ . }}"{{ end }}>{{ $title }}</a>
+{{- end -}}
