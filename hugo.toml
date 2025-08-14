@@ -45,12 +45,12 @@ bluesky = "dave.am"
 
 ## Extras
 [params.extra]
-copyright = "© 2025. Dave Martorana. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2025. Dave Martorana. All Rights Reserved"
 poweredby = true
 highlightjs = true
 socialmarkup = true
 toc = true
-displayrssicon = true
+displayrssicon = false
 
 ## Main Menu
 [[menu.main]]
