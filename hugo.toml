@@ -24,7 +24,9 @@ enableRobotsTXT = true
 author = "Dave Martorana"
 intro = "Father, husband. Entrepreneur, software engineer. Musician."
 description = """
-Co-owner and partner at [Flyclops, LLC](https://flyclops.com)
+May, 1978 - ?
+
+Co-owner, {{< link "Flyclops LLC" "https://flyclops.com" "_blank" >}}
 """
 authorimage = "headshot.png"
 dateformat = "Jan 2, 2006"
