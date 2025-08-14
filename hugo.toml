@@ -33,7 +33,7 @@ dateformat = "2006-01-02"
 
 ## Site Meta Settings
 [params.meta]
-description = "Home of Dave Martorana"
+description = "This is Dave Martorana"
 keywords = "martorana,dave,developer,blog,hugo,software,engineer,flyclops"
 
 ## Social Accounts
