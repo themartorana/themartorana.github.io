@@ -1,19 +1,5 @@
-/* Overrides
-a:not(.social a),
-.menu-item,
-.content a {
-  color: rgb(136 33 136) !important;
-} */
-
 a:hover:not(.social a) {
     text-decoration: underline;
-}
-
-/* Rainbow text */
-.rainbow-text {
-  background-image: linear-gradient(to left, violet, indigo, blue, green, orange, red);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 
 /* Scanlines */
