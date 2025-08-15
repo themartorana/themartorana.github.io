@@ -10,5 +10,5 @@ title = 'About'
 
 ##### Previously:
 - Co-founder, {{< link "Hire an Esquire, LLC" "https://www.hireanesquire.com" "_blank" >}}
-- Host, _{{< link "Two Guys on Beer" "https://www.youtube.com/@twoguysonbeer" "_blank" >}}_
+- Host, _Two Guys on Beer_
 
