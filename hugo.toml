@@ -26,7 +26,7 @@ intro = "Father, husband. Entrepreneur. Software engineer. Musician."
 description = """
 May, 1978 - ?
 
-Co-owner, {{< link "Flyclops LLC" "https://flyclops.com" "_blank" >}}
+Co-owner, {{< link title="Flyclops LLC" url="https://flyclops.com" target="_blank" >}}
 """
 authorimage = "headshot.png"
 dateformat = "2006-01-02"
@@ -54,12 +54,26 @@ displayrssicon = false
 
 ## Main Menu
 [[menu.main]]
-name = "about"
+name = "about dave"
 identifier = "about"
 weight = 100
-url = "about/"
+url = "/about/"
+
 [[menu.main]]
-name = "multifirefox"
-identifier = "multifirefox"
+name = "flyclops"
+identifier = "flyclops"
 weight = 200
-url = "multifirefox/"
+url = "https://flyclops.com"
+
+[[menu.main]]
+name = "sean martorana"
+identifier = "sean-martorana"
+weight = 300
+url = "https://seanmartorana.com"
+
+[[menu.main]]
+name = "ivi"
+identifier = "ivi"
+weight = 400
+url = "https://ivilife.com"
+class = "rainbow-text"

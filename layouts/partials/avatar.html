@@ -1,0 +1,19 @@
+<header class="text-center header">
+  {{ with .Site.Params.authorimage }}
+  {{ with resources.Get (printf "images/%s" .)}}
+  <div class="scanlines headshot headshot rounded-circle">
+    <img src="{{ .Permalink }}" alt="Author Image" class="img-fluid rounded-circle mx-auto d-block headshot">
+  </div>
+  {{ else }}
+  {{ with resources.Get (printf "img/%s" .)}}
+  <div class="scanlines headshot rounded-circle">
+    <img src="{{ .Permalink }}" alt="Author Image" class="img-fluid rounded-circle mx-auto d-block headshot">
+  </div>
+  {{ end }}
+  {{ end }}
+  {{ end }}
+
+  {{ if .IsHome }}
+    <h1 class="author mt-3">{{ .Site.Params.author }}</h1>
+  {{ end }}
+</header>

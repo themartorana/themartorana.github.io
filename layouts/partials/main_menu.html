@@ -1,0 +1,7 @@
+{{ with .Site.Menus.main }}
+<section id="main-menu-pane" class="text-center main-menu">
+  {{ range sort . }}
+  <h4><a class="menu-item" href="{{ .URL }}" target='{{ if in .URL "https://" }}_blank{{ else }}_self{{ end }}'>{{ .Name }}</a></h4>
+  {{ end }}
+</section>
+{{ end }}
