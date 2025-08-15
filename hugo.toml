@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://themartorana.github.io/"
+baseurl = "https://davemartorana.com/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"

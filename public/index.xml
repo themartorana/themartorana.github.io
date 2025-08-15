@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>This is Dave Martorana</title>
-    <link>https://themartorana.github.io/</link>
+    <link>https://davemartorana.com/</link>
     <description>Recent content on This is Dave Martorana</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 14 Aug 2025 01:25:19 +0000</lastBuildDate>
-    <atom:link href="https://themartorana.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davemartorana.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Multifirefox</title>
-      <link>https://themartorana.github.io/multifirefox/</link>
+      <link>https://davemartorana.com/multifirefox/</link>
       <pubDate>Thu, 14 Aug 2025 01:25:19 +0000</pubDate>
-      <guid>https://themartorana.github.io/multifirefox/</guid>
+      <guid>https://davemartorana.com/multifirefox/</guid>
       <description>&lt;p&gt;MultiFirefox, originally developed in 2006, is a small launcher utility that allows you to run multiple versions of Firefox side-by-side.  It helps you set up multiple profiles (one or more for each version of Firefox), remembers your last launch preferences for easy launching, has auto-updating built in for when we make improvements, and is 100% open source, MIT licensed.&lt;/p&gt;&#xA;&lt;p&gt;It is written natively in Objective-C, but was originally written in Python and wxPython.  Posted below are links to all of the pertinent downloads.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://themartorana.github.io/about/</link>
+      <link>https://davemartorana.com/about/</link>
       <pubDate>Thu, 14 Aug 2025 01:21:22 +0000</pubDate>
-      <guid>https://themartorana.github.io/about/</guid>
+      <guid>https://davemartorana.com/about/</guid>
       <description>&lt;p&gt;Brother of artist &lt;a class=&#34;&#34; href=&#34;https://www.seanmartorana.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Sean Martorana&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h5 id=&#34;currently&#34;&gt;Currently:&lt;/h5&gt;&#xA;&lt;p&gt;Co-owner and partner at &lt;a class=&#34;&#34; href=&#34;https://flyclops.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Flyclops&lt;/a&gt;, a game development company in the United States.&lt;/p&gt;&#xA;&lt;h5 id=&#34;previously&#34;&gt;Previously:&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Co-founder, &lt;a class=&#34;&#34; href=&#34;https://www.hireanesquire.com&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Hire an Esquire, LLC&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Host, &lt;em&gt;&lt;a class=&#34;&#34; href=&#34;https://www.youtube.com/@twoguysonbeer&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Two Guys on Beer&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on This is Dave Martorana</title>
-    <link>https://themartorana.github.io/categories/</link>
+    <link>https://davemartorana.com/categories/</link>
     <description>Recent content in Categories on This is Dave Martorana</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <atom:link href="https://themartorana.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davemartorana.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
