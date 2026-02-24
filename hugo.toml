@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://dave.am"
+baseurl = "https://i.dave.am"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
@@ -10,7 +10,7 @@ layoutdir = "layouts"
 publishdir = "public"
 
 author = "Dave Martorana"
-title = "This is Dave Martorana"
+title = "I am Dave Martorana"
 
 theme = "hugo-goa"
 
@@ -21,8 +21,8 @@ enableRobotsTXT = true
 
 ## Site Settings
 [params]
-author = "This is Dave Martorana"
-intro = "Father, husband. Entrepreneur. Software engineer. Musician."
+author = "I am Dave Martorana"
+intro = "Entrepreneur, software engineer, musician."
 description = """
 May, 1978 - ?
 
@@ -33,15 +33,15 @@ dateformat = "2006-01-02"
 
 ## Site Meta Settings
 [params.meta]
-description = "This is Dave Martorana"
+description = "I am Dave Martorana"
 keywords = "martorana,dave,developer,blog,hugo,software,engineer,flyclops"
 
 ## Social Accounts
 [params.social]
 github = "themartorana"
-instagram = "davemartorana"
+instagram = "i.dave.am"
 linkedin = "davidmartorana"
-bluesky = "dave.am"
+bluesky = "i.dave.am"
 
 ## Extras
 [params.extra]
