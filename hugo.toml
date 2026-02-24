@@ -54,7 +54,7 @@ displayrssicon = false
 
 ## Main Menu
 [[menu.main]]
-name = "about dave"
+name = "about"
 identifier = "about"
 weight = 100
 url = "/about/"
